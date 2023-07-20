@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9495d203.css",
+    "main.js": "/static/js/main.52880004.js",
+    "static/media/cpp-video.mp4": "/static/media/cpp-video.cf2aaf32c4cd970b11d0.mp4",
+    "static/media/homeVisao.png": "/static/media/homeVisao.a9afc09d259b7959c7c5.png",
+    "static/media/estacio-logo-1.png": "/static/media/estacio-logo-1.d4b431cbe7e5cf3e5bed.png",
+    "static/media/casa-logo-colorida.png": "/static/media/casa-logo-colorida.982cfd9d8c1a2a4b9a04.png",
+    "static/media/OpenSauceTwo-ExtraBold.ttf": "/static/media/OpenSauceTwo-ExtraBold.e9b2c2905488f5c66f1c.ttf",
+    "static/media/OpenSauceTwo-Regular.ttf": "/static/media/OpenSauceTwo-Regular.309901acc2205aae99a6.ttf",
+    "static/media/CPPengrenagem1_p.png": "/static/media/CPPengrenagem1_p.ef2f14b69cb3624025bf.png",
+    "static/media/CPPengrenagem2_p.png": "/static/media/CPPengrenagem2_p.495995259fcb4f6a578e.png",
+    "static/media/CPPengrenagem4_p.png": "/static/media/CPPengrenagem4_p.e5bbc8c7f813dd37c504.png",
+    "static/media/Pakal-Regular.otf": "/static/media/Pakal-Regular.38590bfd60c7f2cf9456.otf",
+    "static/media/logo-visao-b.png": "/static/media/logo-visao-b.506af8a839eeb89e8cbc.png",
+    "static/media/agenda-queimados-2030.png": "/static/media/agenda-queimados-2030.980fec28a727c73759cd.png",
+    "index.html": "/index.html",
+    "main.9495d203.css.map": "/static/css/main.9495d203.css.map",
+    "main.52880004.js.map": "/static/js/main.52880004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9495d203.css",
+    "static/js/main.52880004.js"
+  ]
+}
