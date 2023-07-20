@@ -14,7 +14,14 @@ function Inscrever() {
           ambiental, violência institucionalizada e crescente desigualdade no
           período após a pandemia de Covid-19.
         </p>
-        <button>Me Inscrever</button>
+        <button >
+          <a
+            target="_blank"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScX3dtoISJKBcMmskJFS1hxfxrA-QiFCES3pGz-W9dgQ7Je-A/viewform?usp=sharing"
+          >
+            Me Inscrever
+          </a>
+        </button>
       </div>
       <div className="text-inscrever">
         <p id="text-number">2.</p>

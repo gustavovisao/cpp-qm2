@@ -51,6 +51,12 @@
   color: #fff;
 }
 
+.image-inscrever a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+}
+
 .image-inscrever button:hover {
   background-color: #a187ff;
   transition: 0.5s ease;

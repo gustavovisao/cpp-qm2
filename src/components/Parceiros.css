@@ -63,7 +63,7 @@
   width: 10vw;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
   .parceiros {
     margin-top: 20vh;
     height: 90vh;
