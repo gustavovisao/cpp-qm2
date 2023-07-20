@@ -1,0 +1,131 @@
+.parceiros {
+  height: 90vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.text-parceiros {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text-parceiros p {
+  font-size: 4rem;
+}
+
+#parceiros-number {
+  font-size: 5rem;
+}
+
+.text-parceiros #parceiros-number {
+  font-family: "pakal";
+}
+
+.text-parceiros #parceiros-info {
+  font-family: "openSauceBold";
+}
+
+.image-parceiros {
+  margin-top: 10vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
+  justify-content: space-around;
+}
+
+.section-parceiros {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 22vw;
+}
+
+.section-parceiros p {
+  margin-top: 2vh;
+  font-size: 0.8rem;
+  text-align: center;
+  width: 80%;
+}
+
+.section-parceiros img {
+  text-align: center;
+  width: 12vw;
+  height: 15vh;
+  object-fit: contain;
+}
+
+.section-parceiros.estacio img {
+  width: 10vw;
+}
+
+@media screen and (min-width: 320px) {
+  .parceiros {
+    margin-top: 20vh;
+    height: 90vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  .text-parceiros {
+    grid-column-start: 1;
+  }
+
+  .text-parceiros p {
+    font-size: 4rem;
+  }
+
+  #parceiros-number {
+    font-size: 5rem;
+  }
+
+  .text-parceiros #parceiros-number {
+    font-family: "pakal";
+  }
+
+  .text-parceiros #parceiros-info {
+    font-family: "openSauceBold";
+  }
+
+  .image-parceiros {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .section-parceiros {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+  }
+
+  .section-parceiros p {
+    margin-top: 2vh;
+    font-size: 0.8rem;
+    text-align: center;
+    width: 80%;
+  }
+
+  .section-parceiros img {
+    text-align: center;
+    width: 20vw;
+    height: 25vh;
+    object-fit: contain;
+  }
+
+  .section-parceiros.estacio img {
+    width: 10vw;
+  }
+
+  .section-parceiros.estacio {
+    margin-bottom: 10vw;
+  }
+}
